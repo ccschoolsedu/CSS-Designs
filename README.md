@@ -15,4 +15,7 @@
 
 ![3d-text-with-css-shadow](https://github.com/ccschoolsedu/CSS-Designs/assets/135714603/f60fd384-132a-4d85-89a6-aaea3b633c89)
 
+5. Text Hover Effect
+
+![link-hover-animation](https://github.com/ccschoolsedu/CSS-Designs/assets/135714603/26a6984c-3817-4561-b802-873134f3ad92)
 
