@@ -17,5 +17,7 @@
 
 5. Text Hover Effect
 
-![link-hover-animation](https://github.com/ccschoolsedu/CSS-Designs/assets/135714603/26a6984c-3817-4561-b802-873134f3ad92)
+![link-hover-animation](https://github.com/ccschoolsedu/CSS-Designs/assets/135714603/cee35cd6-68e8-40ba-b1b6-6efd817fdf8d)
+
+
 
